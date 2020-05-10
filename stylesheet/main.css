@@ -1,0 +1,103 @@
+body{
+	background: white; 
+	color: #555;
+	font-family: ariel;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin: 0;
+	background: url(images/16.jpg);
+
+}
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+#main-header{
+	background: white;
+	color: black;
+	line-height: 1.6em;
+
+
+}
+#navbar{
+	background:black;
+	color: white;
+
+}
+#navbar ul{
+	padding: 0;
+	list-style: none;
+
+}
+#navbar li{
+	display: inline;
+}
+#navbar a{
+	color:white;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px;  
+}
+#showcase{
+background-image: url('../images/16.jpg');
+ background-position: center;
+ min-height: 300px;
+ margin-bottom: 20px;
+ text-align:bottom;
+}
+#showcase h3{
+	color: black;
+	font-size: 30px;
+	line-height: 1.6em
+}
+#main{
+	float: left;
+	width: 70%;
+	padding: 0 30px;
+	box-sizing: border-box;
+
+}
+#sidebar{
+	float: left;
+	width: 30%;
+	padding: 0 30px;
+	box-sizing: border-box;
+	background: white;
+	color: black;
+
+}
+
+.log h1{
+background: white;
+font-size: 60px;
+font-family: times new roman;
+
+
+
+}
+
+.log label{
+	padding: 0;
+	margin: 0;
+	display: block;
+	color: black;
+	
+
+}
+.log input{
+	width: 300px;
+	padding:10px; 
+
+
+}
+.log{
+	background:white;
+}
+#main-footer{
+	background: white;
+	color: black;
+	text-align: center;
+	margin-top: 50px;
+}
+
